@@ -1,0 +1,51 @@
+/* Stylesheet for styling the hero section */
+
+.hero__container {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    text-align: center;
+}
+
+.hero__header {
+    font-size: 100px;
+    font-weight: 200;
+    color: var(--primary);
+}
+
+.hero__subheader {
+    font-size: 60px;
+    font-weight: 800;
+    color: var(--secondary);
+}
+
+.hero__paragraph {
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+.hero__button--container {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    gap: 20px;
+}
+
+.hero__button {
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.hero__secondary--paragraph {
+    font-size: 20px;
+    padding-top: 30px;
+    width: 30%;
+    margin: auto;
+    color: var(--primary);
+    font-weight: 200;
+}
+
+.hero__secondary--paragraph span {
+    color: var(--secondary);
+    font-weight: 800;
+}
