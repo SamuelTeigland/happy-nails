@@ -15,7 +15,7 @@ export default function Address() {
                         (410) 996-9447
                    </p>
                    <p className='address__svg--paragraph'>
-                        Call to book an appointment! <span>We are always busy and don't often take walk-ins.</span>
+                        Call to book an appointment! <span>We are always busy and don&apos;t often take walk-ins.</span>
                    </p>
                 </div>
                 <div className='address__svg--subcontainer'>
