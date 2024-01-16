@@ -5,7 +5,7 @@ export default function Address() {
     return (
         <div className='address__container'>
             <h1 className='address__header'>Curious?</h1>
-            <h2 className='address__subheader'>here's where to find us.</h2>
+            <h2 className='address__subheader'>here&apos;s where to find us.</h2>
             <div className='address__svg--container'>
                 <div className='address__svg--subcontainer'>
                    <div className='address__svg'>
