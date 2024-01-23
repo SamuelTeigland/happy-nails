@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import styles from './page.module.css'
-import { Navbar, Hero, Address } from '@/components/components'
+import { Navbar, Hero, Address, Footer } from '@/components/components'
 
 export default function Home() {
     return (
@@ -8,6 +8,7 @@ export default function Home() {
            <Navbar />
            <Hero />
            <Address />
+           <Footer />
         </main>
     )
 }
