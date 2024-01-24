@@ -10,7 +10,7 @@ export default function Footer() {
                 <p className='footer__address--paragraph'>1 Commercial Plaza, <span>Elkton, MD 21921</span></p>
             </div>
             <div className='footer__bottom--container'>
-                <p className='footer__bottom--paragraph'>Created with passion by <a target='_blank' rel='nofollow' href='https://www.websiteartificers.com'>The Website Artificers</a>.</p>
+                <p className='footer__bottom--paragraph'>Created with passion by <a target='_blank' rel='nofollow' href='https://www.websiteartificers.com'>Website Artificers</a>© 2023</p>
             </div>
         </div>
     )
